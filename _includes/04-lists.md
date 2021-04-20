@@ -1,10 +1,8 @@
-<ul> 
-  <li> :tada: List 1 </li>
-  <li> :tada: List 2 </li>
-  <li> :heart: List 2 </li>
-  <li> :+1: List 2 </li>
-  <li> :smile: List 2 </li>
-  <li> :sparkles: List 2 </li>
-  <li> :tada: List 2 </li>
-  <li> :adult: List 2 </li>
-  </ul>
+- :tada: item1
+- :tada: item2
+- :tada: item3
+- :tada: item4
+- :tada: item5
+- :tada: item6
+- :tada: item7
+- :tada: item8 
